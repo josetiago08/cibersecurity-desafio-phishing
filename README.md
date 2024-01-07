@@ -17,5 +17,4 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+![Screenshot_2024-01-07_16_01_35](https://github.com/josetiago08/cibersecurity-desafio-phishing/assets/65675125/81dde7f8-2b73-430d-9445-1e7a50e779c1)
